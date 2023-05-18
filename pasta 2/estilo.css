@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+
+
+:root{
+    --corFundo:hwb(19 29% 38%);
+    --corPrincipal: #c97740;
+    --corSecundaria:#cf9b4c ;
+    --corTerciaria:#ebb72a;
+
+    
+}
+body{
+    
+    background-color: var(--corFundo);
+    font-family: 'Exo 2', sans-serif; 
+    padding: 30px;
+
+}
+header{
+    background-color: var(--corPrincipal);
+    text-align: center;
+    height: 60px;
+    padding:auto;
+    margin-bottom: 20px;
+    color:black;
+}
+ div{
+     text-align: center;
+     height: auto;
+     font-size: 28px;
+     padding: auto;
+     color: black;
+
+
+}
